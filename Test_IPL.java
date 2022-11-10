@@ -2,11 +2,11 @@ import java.util.*;
 class Pair{
 	String str="";
 }
-public class Test_IPL {
+public class Test_IPL {									//created a class named as Test_IPL
 
 	public static void main(String[] args) {
 		String[][] IPL_leaderboard = {
-				{"GT","20","Win","Win","Loss","Loss","Win"},
+				{"GT","20","Win","Win","Loss","Loss","Win"},		//Adding the dataset in the form of string
 				{"LSG","18","Win","Loss","Loss","Win","Win"},
 				{"RR","16","Win","Loss","Win","Loss","Loss"},
 				{"DC","14","Win","Win","Loss","Win","Loss"},
